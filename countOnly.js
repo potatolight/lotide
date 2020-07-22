@@ -11,10 +11,7 @@ const countOnly = function(allItems, itemsToCount) {
   }
   return obj
 }
-const countOnly = function(allItems, itemsToCount) {
-  let result = {}
-  return result
-}
+
 const firstNames = [
   "Karl",
   "Salima",
